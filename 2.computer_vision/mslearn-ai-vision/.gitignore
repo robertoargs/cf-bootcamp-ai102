@@ -1,0 +1,6 @@
+obj
+bin
+*.sln
+.env
+env
+Labfiles/analyze-images/python/image-analysis/.env
