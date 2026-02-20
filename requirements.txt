@@ -1,9 +1,17 @@
+# Agents and models
 azure-ai-projects
 azure-identity
 python-dotenv
 openai
 
+# Image analysis
 dotenv
 matplotlib
 pillow
 azure-ai-vision-imageanalysis==1.0.0
+
+# Face detection
+azure-ai-vision-face==1.0.0b2
+
+# Custom vision
+azure-cognitiveservices-vision-customvision
