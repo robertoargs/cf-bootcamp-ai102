@@ -47,6 +47,8 @@ def Upload_Images(folder):
 def Train_Model():
     print("Training ...")
     iteration = training_client.train_project(custom_vision_project.id)
+    print("iteration status: ", iteration)
+    input()
     while (iteration.status != "Completed"):
         iteration = training_client.get_iteration(custom_vision_project.id, iteration.id)
         print (iteration.status, '...')
