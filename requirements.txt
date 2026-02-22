@@ -15,3 +15,8 @@ azure-ai-vision-face==1.0.0b2
 
 # Custom vision
 azure-cognitiveservices-vision-customvision
+
+# Voice
+azure.core
+# azure-cognitiveservices-speech==1.42.0
+azure-cognitiveservices-speech
