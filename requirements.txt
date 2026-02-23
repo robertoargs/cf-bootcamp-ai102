@@ -24,3 +24,5 @@ azure-cognitiveservices-speech
 # Analyze Text
 azure-ai-textanalytics==5.3.0
 azure-ai-language-questionanswering #Q/A
+
+# 
