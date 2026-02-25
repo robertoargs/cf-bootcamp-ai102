@@ -28,3 +28,6 @@ azure-ai-language-questionanswering #Q/A
 # Knowledge
 # azure-identity # already included above
 azure-search-documents==11.5.1
+
+# Form recognizer
+azure-ai-formrecognizer==3.3.3
